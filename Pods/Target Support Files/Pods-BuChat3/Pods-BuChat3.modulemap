@@ -1,0 +1,6 @@
+framework module Pods_BuChat3 {
+  umbrella header "Pods-BuChat3-umbrella.h"
+
+  export *
+  module * { export * }
+}
